@@ -1,0 +1,145 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=d:\Programacion\Ejemplos\VB6\LetraX\Letrax
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+H_POINT.CUR=D:\Programacion\Ejemplos\VB6\LetraX\H_POINT.CUR
+LetraX.ini=D:\Programacion\Ejemplos\VB6\LetraX\LetraX.ini
+
+[Package|Standard Setup Package 1|Files Released]
+Kernel.DLL=
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\WINNT\system32\Super_Button.ocx=
+C:\WINDOWS\system32\Super_Button.ocx=
+D:\Programacion\Ejemplos\VB6\LetraX\Super_Button.ocx=
+C:\WINDOWS\system32\ieframe.dll=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\Comdlg32.ocx=
+
+[Package|Standard Setup Package 1|Files Added]
+letrax.ini=
+h_point.cur=
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+C:\WINDOWS\system32\MSVBVM60.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\RichTx32.ocx=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\system32\comdlg32.ocx=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\Programacion\Ejemplos\VB6\LetraX\LetraX.exe=Yes
+C:\WINDOWS\system32\ieframe.dll=Yes
+D:\Programacion\Ejemplos\VB6\LetraX\Super_Button.ocx=Yes
+D:\Programacion\Ejemplos\VB6\LetraX\LetraX.ini=Yes
+D:\Programacion\Ejemplos\VB6\LetraX\H_POINT.CUR=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+C:\Desarrollo\Sistemas\LetraX\LetraX.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\Super_Button.ocx=$(WinSysPath)
+C:\WINNT\system32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\Comdlg32.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Desarrollo\Sistemas\LetraX\LetraX.ini=$(AppPath)
+D:\Respaldo\Desarrollo\Sistemas\LetraX\LetraX.exe=$(AppPath)
+C:\WINDOWS\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\Super_Button.ocx=$(WinSysPath)
+C:\WINDOWS\system32\RichTx32.ocx=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\comdlg32.ocx=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\Respaldo\Desarrollo\Sistemas\LetraX\LetraX.ini=$(AppPath)
+D:\Respaldo\Desarrollo\Sistemas\LetraX\H_POINT.CUR=$(AppPath)
+D:\Desarrollo\Sistemas\LetraX\LetraX.exe=$(AppPath)
+D:\Desarrollo\Sistemas\LetraX\LetraX.ini=$(AppPath)
+D:\Desarrollo\Sistemas\LetraX\H_POINT.CUR=$(AppPath)
+D:\Programacion\Ejemplos\VB6\LetraX\LetraX.exe=$(AppPath)
+C:\WINDOWS\system32\ieframe.dll=$(WinSysPath)
+D:\Programacion\Ejemplos\VB6\LetraX\Super_Button.ocx=$(WinSysPath)
+D:\Programacion\Ejemplos\VB6\LetraX\LetraX.ini=$(AppPath)
+D:\Programacion\Ejemplos\VB6\LetraX\H_POINT.CUR=$(AppPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+C:\Desarrollo\Sistemas\LetraX\LetraX.exe=No
+C:\Desarrollo\Sistemas\LetraX\LetraX.ini=No
+D:\Respaldo\Desarrollo\Sistemas\LetraX\LetraX.exe=No
+D:\Respaldo\Desarrollo\Sistemas\LetraX\LetraX.ini=No
+D:\Respaldo\Desarrollo\Sistemas\LetraX\H_POINT.CUR=No
+D:\Desarrollo\Sistemas\LetraX\LetraX.exe=No
+D:\Desarrollo\Sistemas\LetraX\LetraX.ini=No
+D:\Desarrollo\Sistemas\LetraX\H_POINT.CUR=No
+D:\Programacion\Ejemplos\VB6\LetraX\LetraX.exe=No
+D:\Programacion\Ejemplos\VB6\LetraX\LetraX.ini=No
+D:\Programacion\Ejemplos\VB6\LetraX\H_POINT.CUR=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=1.44 MB
+Title=LetraX V.1
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=LetraX
+PrivateGroup0=0
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|LetraX]
+Icon1=LetraX.exe
+Title1=LetraX V.1
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=d:\Programacion\Ejemplos\VB6\LetraX\Letrax
+ProjectFolder=D:\Programacion\Ejemplos\VB6\LetraX
+ServerSideCab=
+File1=d:\Programacion\Ejemplos\VB6\LetraX\Letrax\setup.exe
+File2=d:\Programacion\Ejemplos\VB6\LetraX\Letrax\Setup.Lst
+File3=d:\Programacion\Ejemplos\VB6\LetraX\Letrax\LetraX.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
